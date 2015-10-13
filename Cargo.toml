@@ -2,3 +2,6 @@
 name = "make-cmd"
 version = "0.1.0"
 authors = ["Michael Neumann <mneumann@ntecs.de>"]
+description = "Enables build.rs scripts to invoke gnu_make platform-independently."
+repository = "https://github.com/mneumann/make-cmd-rs"
+license = "MIT"
