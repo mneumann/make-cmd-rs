@@ -4,4 +4,4 @@ version = "0.1.1"
 authors = ["Michael Neumann <mneumann@ntecs.de>"]
 description = "Enables build.rs scripts to invoke gnu_make platform-independently."
 repository = "https://github.com/mneumann/make-cmd-rs"
-license = "MIT/Apache-2.0"
+license = "MIT OR Apache-2.0"
